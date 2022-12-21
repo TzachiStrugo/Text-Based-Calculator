@@ -1,5 +1,5 @@
 
-# Simple Text Based Caaculator
+# Simple Text Based Calculator
 
 A simple arithmetic text based calculator.
 The calculator using Shunting yard algorithm to convert the infix expression to prefix.
